@@ -44,4 +44,8 @@
     <Folder Include="Application\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Dataplace.Imersao.Core\Dataplace.Imersao.Core.csproj" />
+  </ItemGroup>
+
 </Project>
